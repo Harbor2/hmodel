@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="complete_data_" type="id"/>
+    <item name="key_qr_fav_status" type="id"/>
+    <item name="key_duration_tag" type="id"/>
+</resources>
